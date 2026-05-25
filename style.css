@@ -125,10 +125,8 @@ nav .container{
     border-radius:50%;
     border:8px solid #d4a373;
 
-    object-fit:cover;
-    object-position:center 10%;
-
-    display:block;
+    object-fit:contain;
+    background:white;
 }
 }
 
