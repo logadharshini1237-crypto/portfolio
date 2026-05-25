@@ -8,8 +8,10 @@
     width:350px;
     height:350px;
     border-radius:50%;
-    object-fit:cover;
-    object-position:center top;
     border:8px solid #d4a373;
-    display:block;
+
+    object-fit:cover;
+    object-position:top;
+
+    overflow:hidden;
 }
