@@ -299,8 +299,13 @@ footer{
         flex-direction:column;
     }
 
-    .hero-img img{
-        width:250px;
-        height:250px;
-    }
+   .hero-img img{
+    width:350px;
+    height:350px;
+    border-radius:50%;
+    border:8px solid #d4a373;
+
+    object-fit:cover;
+    object-position:center 15%;
+}
 }
