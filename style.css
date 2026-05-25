@@ -1,7 +1,15 @@
-.profile-img{
+.hero-img{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.hero-img img{
     width:350px;
     height:350px;
     border-radius:50%;
     object-fit:cover;
-    border:8px solid #d6a16d;
+    object-position:center top;
+    border:8px solid #d4a373;
+    display:block;
 }
