@@ -126,7 +126,7 @@ nav .container{
     border:8px solid #d4a373;
 
     object-fit:cover;
-    object-position:center 20%;
+    object-position:center 10%;
 
     display:block;
 }
