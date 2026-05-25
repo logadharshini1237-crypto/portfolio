@@ -121,7 +121,7 @@ nav .container{
     width:350px;
     height:350px;
     object-fit:cover;
-    object-position:center top;
+    object-position:center 15%;
     border-radius:50%;
     border:8px solid #d4a373;
 }
@@ -299,13 +299,10 @@ footer{
         flex-direction:column;
     }
 
-   .hero-img img{
-    width:350px;
-    height:350px;
-    border-radius:50%;
-    border:8px solid #d4a373;
-
-    object-fit:cover;
-    object-position:center 15%;
-}
+    .hero-img img{
+        width:250px;
+        height:250px;
+        object-fit:cover;
+        object-position:center 15%;
+    }
 }
