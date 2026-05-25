@@ -114,19 +114,16 @@ nav .container{
 
 .hero-img{
     flex:1;
-    display:flex;
-    justify-content:center;
-    align-items:center;
+    text-align:center;
 }
 
 .hero-img img{
     width:350px;
     height:350px;
-    border-radius:50%;
-    border:8px solid #d4a373;
-
     object-fit:cover;
     object-position:center top;
+    border-radius:50%;
+    border:8px solid #d4a373;
 }
 
 /* SECTION */
