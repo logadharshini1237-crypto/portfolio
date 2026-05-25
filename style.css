@@ -305,12 +305,4 @@ footer{
         object-fit:cover;
         object-position:center 15%;
     }
-
-    .title{
-        font-size:32px;
-    }
-
-    .contact-box{
-        padding:30px;
-    }
 }
